@@ -23,7 +23,7 @@
 
 ### 🚀 About Me
 
-💻 **Frontend Developer** with strong experience in system integration, focused on creating modern and efficient user interfaces.
+💻 **Full Stack Developer** with strong experience in system integration, focused on creating modern and efficient user interfaces.
 🎓 Freshly graduated with a Bachelor of Science in Information Technology.
 🌍 Based in Mandaue, Central Visayas, Philippines.
 ✨ I enjoy building seamless web experiences and robust API connections for real-world applications.
